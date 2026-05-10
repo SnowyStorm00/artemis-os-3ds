@@ -2,7 +2,8 @@
 
 A tiny Windows 95-style desktop shell running as 3DS homebrew.
 
-[![platform](https://img.shields.io/badge/platform-3DS-blue)]
+![platform](https://img.shields.io/badge/platform-3DS-blue)
+
 [![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/snowystorm)
 
 ## Features
